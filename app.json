@@ -1,7 +1,7 @@
 {
 	"expo": {
-		"name": "react-native-crud",
-		"slug": "react-native-crud",
+		"name": "React Native Basic Auth",
+		"slug": "react-native-basic-auth",
 		"version": "1.0.0",
 		"orientation": "portrait",
 		"icon": "./assets/images/icon.png",
@@ -15,14 +15,16 @@
 		},
 		"assetBundlePatterns": ["**/*"],
 		"ios": {
-			"supportsTablet": true
+			"supportsTablet": true,
+			"bundleIdentifier": "com.anonymous.reactnativecrud"
 		},
 		"android": {
 			"edgeToEdgeEnabled": true,
 			"adaptiveIcon": {
 				"foregroundImage": "./assets/images/adaptive-icon.png",
 				"backgroundColor": "#ffffff"
-			}
+			},
+			"package": "com.anonymous.reactnativecrud"
 		},
 		"web": {
 			"bundler": "metro",
