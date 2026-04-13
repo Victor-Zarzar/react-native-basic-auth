@@ -185,7 +185,7 @@ With the development server running, press `Shift + M` in the terminal to open t
 </br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/05dce4c2-72cd-46c9-afb9-d04146848ea2" width="1000" height="600" alt="SQL Drizzle Studio">
+  <img width="1919" height="962" alt="Screenshot 2026-04-13 at 18 48 48" src="https://github.com/user-attachments/assets/4843ee09-3889-4b36-a015-ee4fc485b221" width="1000" height="600" alt="SQL Drizzle Studio" />
 </p>
 
 </br>
@@ -197,13 +197,13 @@ With the development server running, press `Shift + M` in the terminal to open t
 </h2>
 
 ```bash
-npx react-native-reusables/cli@latest add input textarea
+bunx react-native-reusables/cli@latest add input textarea
 ```
 
 Install all components:
 
 ```bash
-npx react-native-reusables/cli@latest add --all
+bunx react-native-reusables/cli@latest add --all
 ```
 
 ---
